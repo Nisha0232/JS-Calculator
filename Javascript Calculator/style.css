@@ -1,0 +1,28 @@
+.container{
+    text-align: center;
+    margin-top: 23px;}
+table{
+    margin: auto;}
+input{
+    font-size: 34px;
+    border-radius: 21px;
+    border: 3px solid black;
+    height: 50px;
+    width: 438px;}
+button{
+    font-size: 40px;
+    border-radius: 20px;
+    background: gray;
+    height: 55px;
+    margin: 5px;
+    width: 100px;}
+.calculator{
+    display: inline-block;
+    border: 2px solid rgb(104, 9, 112);
+    padding: 23px;
+    border-radius: 53px;
+    background-color: rgb(239, 85, 253);}
+h1{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;}
